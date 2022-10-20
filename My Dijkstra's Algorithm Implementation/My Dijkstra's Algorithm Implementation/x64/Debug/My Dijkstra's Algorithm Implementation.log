@@ -1,0 +1,4 @@
+﻿  My Dijkstra's Algorithm Implementation.cpp
+E:\2022-2023 1\coding\My Dijkstra's Algorithm Implementation\My Dijkstra's Algorithm Implementation\My Dijkstra's Algorithm Implementation\My Dijkstra's Algorithm Implementation.cpp(153): warning C4715: “Graph::getNameByID”: 不是所有的控件路径都返回值
+E:\2022-2023 1\coding\My Dijkstra's Algorithm Implementation\My Dijkstra's Algorithm Implementation\My Dijkstra's Algorithm Implementation\My Dijkstra's Algorithm Implementation.cpp(433): warning C4715: “Graph::getVertexIndex”: 不是所有的控件路径都返回值
+  My Dijkstra's Algorithm Implementation.vcxproj -> E:\2022-2023 1\coding\My Dijkstra's Algorithm Implementation\My Dijkstra's Algorithm Implementation\x64\Debug\My Dijkstra's Algorithm Implementation.exe
